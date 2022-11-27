@@ -3,7 +3,8 @@ public class HelloGit
 
    public static void main(String[] args)
    {
-      System.out.println("Hello Git!");
+      // Comment here.
+      System.out.println("Hello class, we are learning Git!");
    }
    
 }
